@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Sleep"
+date: 2019-06-09T13:42:13-04:00
+---
+
+[Sleep](https://www.dndbeyond.com/spells/sleep) is a 1st level area-of-effect spell available to bards, sorcerers, and wizards, as well as paladins who take the [Oath of Redemption](https://www.dndbeyond.com/classes/paladin#OathofRedemption), and warlocks whose patron is [The Archfey](https://www.dndbeyond.com/classes/warlock#TheArchfey). This spell takes an action to cast and renders creatures in a small area [unconscious](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Unconcious).
+
+The area of effect is centered on a point within 90 feet of you, which is a fairly long range — about the length of a typical ship’s deck, or the height of a 10 story tower.  [Sleep](https://www.dndbeyond.com/spells/sleep) definitely seems designed to be cast from a safe distance. It affects creatures within a 20 foot radius, so you can cast it on targets up to 110 feet away. They can even be behind total cover as long as you have a clear path to the point of origin.
+
+There is no saving throw. Instead, you roll 5d8 and find the creature with the lowest number of hit points within the area of effect. If the roll exceeds that creature’s hit points, it falls unconscious and you subtract its hit points from your roll total. You then repeat the procedure for the creature with the next lowest hit points, and so on.
+
+For example, if there are 4 goblins in the area of effect with 7 hit points each and you roll 23 on your 5d8 then three of the goblins fall unconscious, as they have a total of 21 hit points. You’d need to roll at least 28 to affect all four goblins.
+
+Creatures affected fall [unconscious](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Unconcious). This means:
+
+* They are [incapacitated](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Incapacitated.), meaning they can’t take actions or reactions.
+* They can’t move or speak.
+* They are unaware of their surroundings.
+* They drop whatever they’re holding.
+* They automatically fail Srength and Dexterity saving throws.
+* Attack rolls against them have advantage.
+* Any attack that hits them is a critical hit.
+
+This is a very powerful effect, and it lasts for a full minute, which is 10 rounds. However, the effect ends immediately on a creature if it takes any damage or if another creature uses its action to wake it.
+
+## Recommended Uses
+[Sleep](https://www.dndbeyond.com/spells/sleep) is really good against groups of low-level enemies. With a single spell slot you can immediately reduce the number of combatants. Ambushed by a pack of four wolves? Put two of them to [Sleep](https://www.dndbeyond.com/spells/sleep), and now you only have to deal with two wolves. Need to get past a pair of guards? Cast [Sleep](https://www.dndbeyond.com/spells/sleep) from a safe distance and then walk right by them. Charged by a knight on a warhorse? Put the horse to [Sleep](https://www.dndbeyond.com/spells/sleep).
+
+[Sleep](https://www.dndbeyond.com/spells/sleep) is effective against enemies up to CR 1/2. That means kobolds, goblins, hobgoblins, orcs, most animals, and common folk such as bandits and guards.
+
+## Negatives
+[Sleep](https://www.dndbeyond.com/spells/sleep) is completely useless against undead or constructs. So if you’re going up against groups of zombies or skeletons, prepare something else and bring a cleric.
+
+Everyone in the area of effect is affected, including allies. So be careful casting this spell in mixed company.
+
+[Sleep](https://www.dndbeyond.com/spells/sleep) does not scale well. By the time you get to 4th level, you’ll be facing enemies that have more hit points than you’re likely to roll on 5d8. The spell does allow upcasting, but this is very weak. A 2nd level slot will let you roll 7d8, which may be enough to put a single CR 1 creature to sleep (for example, a bugbear or a tiger). But if you roll low, you’re likely to waste your 2nd level slot. It might still be useful for crowds of low-level monsters, but as you progress in levels, [Sleep](https://www.dndbeyond.com/spells/sleep) will be increasingly outclassed by much better spells.
+
+To see how poorly [Sleep](https://www.dndbeyond.com/spells/sleep) scales, consider a Sleep spell cast with a 9th level slot, which you get one of per day as a 17th level spellcaster or higher. This is the highest power level in the game, where you can cast [Wish](https://www.dndbeyond.com/spells/wish) and literally bend the fabric of reality. And yet [Sleep](https://www.dndbeyond.com/spells/sleep) cast at this level only affects 95 hit points worth of creatures, which is probably the lower limit for the hit points of enemies you’re likely to encounter as a 17th-level character. Typical enemies at this level will have hundreds of hit points.
+
+## Compared to other spells
+[Sleep](https://www.dndbeyond.com/spells/sleep) is unique in that it’s a 1st-level spell that can incapacitate multiple enemies without a saving throw, and without requiring your concentration. Compare it with [Hideous Laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter), which is a 1st-level spell that can incapacitate a single enemy and requires concentration.
+
+[Color Spray](https://www.dndbeyond.com/spells/color-spray) works similarly to [Sleep](https://www.dndbeyond.com/spells/sleep) and is also a 1st-level spell, but blinds creatures instead of rendering them unconscious.
+
+[Suggestion](https://www.dndbeyond.com/spells/suggestion) is a 2nd-level spell with a range of only 30 feet that can be used to take one enemy out of the fight, but takes your concentration.
+
+[Hypnotic Pattern](https://www.dndbeyond.com/spells/hypnotic-pattern) is a 3rd-level spell with a similar effect to [Sleep](https://www.dndbeyond.com/spells/sleep), but allows the affected creatures a Wisdom saving throw and requires your concentration.
+
+[Hold Monster](https://www.dndbeyond.com/spells/hold-monster) comes online when you get 5th level slots (at character level 9 if you’re a wizard), affects one creature which gets a saving throw, and takes concentration. It can be upcast, so you can hold two monsters using a 6th level slot and so on. 
+
+At spell level 6 (wizard level 11), you get spells like [Irresistible Dance](https://www.dndbeyond.com/spells/ottos-irresistible-dance) and [Eyebite](https://www.dndbeyond.com/spells/eyebite) that let you disable enemies. But again, these spells take your concentration.
+
+## Summary
+[Sleep](https://www.dndbeyond.com/spells/sleep) is a uniquely powerful crowd control spell for low-level characters, but quickly becomes irrelevant as you level up.
+
