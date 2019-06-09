@@ -54,3 +54,4 @@ At spell level 6 (wizard level 11), you get spells like [Irresistible Dance](htt
 ## Summary
 [Sleep](https://www.dndbeyond.com/spells/sleep) is a uniquely powerful crowd control spell for low-level characters, but quickly becomes irrelevant as you level up.
 
+
