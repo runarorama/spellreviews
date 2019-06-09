@@ -14,7 +14,8 @@ For example, if there are 4 goblins in the area of effect with 7 hit points each
 
 Creatures affected fall [unconscious](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Unconcious). This means:
 
-* They are [incapacitated](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Incapacitated.), meaning they can’t take actions or reactions.
+* They fall [prone](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Prone).
+* They are [incapacitated](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Incapacitated), meaning they can’t take actions or reactions.
 * They can’t move or speak.
 * They are unaware of their surroundings.
 * They drop whatever they’re holding.
@@ -47,7 +48,7 @@ To see how poorly [Sleep](https://www.dndbeyond.com/spells/sleep) scales, consid
 
 [Hypnotic Pattern](https://www.dndbeyond.com/spells/hypnotic-pattern) is a 3rd-level spell with a similar effect to [Sleep](https://www.dndbeyond.com/spells/sleep), but allows the affected creatures a Wisdom saving throw and requires your concentration.
 
-[Hold Monster](https://www.dndbeyond.com/spells/hold-monster) comes online when you get 5th level slots (at character level 9 if you’re a wizard), affects one creature which gets a saving throw, and takes concentration. It can be upcast, so you can hold two monsters using a 6th level slot and so on. 
+[Hold Monster](https://www.dndbeyond.com/spells/hold-monster) comes online when you get 5th level slots (at character level 9 if you’re a wizard), affects one creature which gets a saving throw, and takes concentration. It can be upcast, so you can hold two monsters using a 6th level slot and up to 5 monsters with a 9th-level slot. 
 
 At spell level 6 (wizard level 11), you get spells like [Irresistible Dance](https://www.dndbeyond.com/spells/ottos-irresistible-dance) and [Eyebite](https://www.dndbeyond.com/spells/eyebite) that let you disable enemies. But again, these spells take your concentration.
 
