@@ -27,9 +27,9 @@ This is a very powerful effect, and it lasts for a full minute, which is 10 roun
 
 ## Recommended Uses
 
-[Sleep](https://www.dndbeyond.com/spells/sleep) is really good against groups of low-level enemies. With a single spell slot you can immediately reduce the number of combatants. Ambushed by a pack of four wolves? Put two of them to [Sleep](https://www.dndbeyond.com/spells/sleep), and now you only have to deal with two wolves. Need to get past a pair of guards? Cast [Sleep](https://www.dndbeyond.com/spells/sleep) from a safe distance and then walk right by them. Charged by a knight on a warhorse? Put the horse to [Sleep](https://www.dndbeyond.com/spells/sleep) and watch the knight tumble to the ground.
+[Sleep](https://www.dndbeyond.com/spells/sleep) is really good against groups of low-level enemies. With a 1st-level spell slot you can immediately reduce the number of combatants on the battlefield, sometimes by a lot. Ambushed by a pack of four wolves? Put two of them to [Sleep](https://www.dndbeyond.com/spells/sleep), and now you only have to deal with two wolves. Need to get past a pair of guards? Cast [Sleep](https://www.dndbeyond.com/spells/sleep) from a safe distance and then walk right by them. Charged by a knight on a warhorse? Put the horse to [Sleep](https://www.dndbeyond.com/spells/sleep) and watch the knight tumble to the ground.
 
-[Sleep](https://www.dndbeyond.com/spells/sleep) is effective against enemies up to CR 1/2. That means kobolds, goblins, hobgoblins, orcs, most animals, and common folk such as bandits and guards.
+[Sleep](https://www.dndbeyond.com/spells/sleep) is very effective against enemies up to CR 1/2. That means kobolds, goblins, hobgoblins, orcs, most animals, and common folk such as bandits and guards.
 
 Attacks against sleeping enemies have advantage, and all hits are critical hits. Once the bard has put the group of bandits to sleep, send in the rogue to slit their throats one by one.
 
@@ -39,9 +39,9 @@ Attacks against sleeping enemies have advantage, and all hits are critical hits.
 
 Another thing to watch out for is that everyone in the area of effect is affected, including allies. So be careful casting this spell in mixed company.
 
-[Sleep](https://www.dndbeyond.com/spells/sleep) does not scale well. By the time you get to 4th level, you’ll be facing enemies that have more hit points than you’re likely to roll on 5d8. The spell does allow upcasting, but this is very weak. A 2nd level slot will let you roll 7d8, which may be enough to put a single CR 1 creature to sleep (for example, a bugbear or a tiger). But if you roll low, you’re likely to waste your 2nd level slot. It might still be useful for crowds of low-level monsters, but as you progress in levels, [Sleep](https://www.dndbeyond.com/spells/sleep) will be increasingly outclassed by much better spells.
+[Sleep](https://www.dndbeyond.com/spells/sleep) does not really scale well. By the time you get to 4th level, you’ll be facing enemies that have more hit points than you’re likely to roll on 5d8. The spell does allow upcasting, but this is very weak. A 2nd level slot will let you roll 7d8, which may be enough to put a single CR 1 creature to sleep (for example, a bugbear or a tiger). Once you're dealing with CR 2 monsters like ogres or gargoyles, they're likely to have enough hit points so that you'll need a 4th-level spell slot to even have a 50% chance of even affecting one of them. 
 
-To see how poorly [Sleep](https://www.dndbeyond.com/spells/sleep) scales, consider a Sleep spell cast with a 9th level slot, which you get one of per day as a 17th level spellcaster or higher. This is the highest power level in the game, where you can cast [Wish](https://www.dndbeyond.com/spells/wish) and literally bend the fabric of reality. And yet [Sleep](https://www.dndbeyond.com/spells/sleep) cast at this level only affects 95 hit points worth of creatures, which is probably the lower limit for the hit points of enemies you’re likely to encounter as a 17th-level character. Typical enemies at this level will have hundreds of hit points.
+That said, an upcast [Sleep](https://www.dndbeyond.com/spells/sleep) might be a good follow-up to AOE damage spells like [Fireball](https://www.dndbeyond.com/spells/fireball). [Sleep](https://www.dndbeyond.com/spells/sleep) will have an easier time affecting enemies that have already lost half their hit points.
 
 ## Statistical Analysis
 
@@ -63,12 +63,12 @@ Or a single orc:
 
 ![Orcs Sleep Histogram]({{ "/assets/orcs_sleep.png"  }})
 
-Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with orcs, you have only a 5% chance that the spell will do nothing. This chance jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally ineffective against them.
+Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with orcs, you have only a 5% chance that the spell will do nothing. The probability of no effect jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally ineffective against them unless they're injured or you cast it with a higher level slot.
 
 ## Compared to other spells
 [Sleep](https://www.dndbeyond.com/spells/sleep) is unique in that it’s a 1st-level spell that can incapacitate multiple enemies without a saving throw, and without requiring your concentration. Compare it with [Hideous Laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter), which is a 1st-level spell that can incapacitate a single enemy and requires concentration.
 
-[Color Spray](https://www.dndbeyond.com/spells/color-spray) works similarly to [Sleep](https://www.dndbeyond.com/spells/sleep) and is also a 1st-level spell, but blinds creatures instead of rendering them unconscious.
+[Color Spray](https://www.dndbeyond.com/spells/color-spray) works similarly to [Sleep](https://www.dndbeyond.com/spells/sleep) and is also a 1st-level spell, but blinds creatures instead of rendering them unconscious. The duration is only 1 round, compared to 10 rounds for [Sleep](https://www.dndbeyond.com/spells/sleep).
 
 [Suggestion](https://www.dndbeyond.com/spells/suggestion) is a 2nd-level spell with a range of only 30 feet that can be used to take one enemy out of the fight, but takes your concentration.
 
