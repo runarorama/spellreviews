@@ -4,7 +4,7 @@ title: "Sleep"
 date: 2019-06-09T13:42:13-04:00
 ---
 
-[Sleep](https://www.dndbeyond.com/spells/sleep) is a 1st level area-of-effect spell from the basic rules. It's available to bards, sorcerers, and wizards, as well as paladins who take the [Oath of Redemption](https://www.dndbeyond.com/classes/paladin#OathofRedemption), and warlocks whose patron is [The Archfey](https://www.dndbeyond.com/classes/warlock#TheArchfey). This spell takes an action to cast and renders creatures in a small area [unconscious](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Unconcious).
+[Sleep](https://www.dndbeyond.com/spells/sleep) is a 1st level area-of-effect spell from the basic rules. It's available to bards, sorcerers, and wizards, as well as paladins who take the [Oath of Redemption](https://www.dndbeyond.com/classes/paladin#OathofRedemption), and warlocks whose patron is [The Archfey](https://www.dndbeyond.com/classes/warlock#TheArchfey). This spell takes an action to cast and renders creatures in a small area [unconscious](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Unconscious).
 
 The area of effect is centered on a point within 90 feet of you, which is a fairly long range — about the length of a typical ship’s deck, or the height of a 9 story tower. [Sleep](https://www.dndbeyond.com/spells/sleep) definitely seems designed to be cast from a safe distance. It affects creatures within a 20 foot radius, so you can cast it on targets up to 110 feet away. They can even be behind total cover as long as you have a clear path to the point of origin.
 
@@ -12,14 +12,14 @@ There is no saving throw. Instead, you roll 5d8 and find the creature with the l
 
 For example, if there are 4 goblins in the area of effect with 7 hit points each and you roll 23 on your 5d8 then three of the goblins fall unconscious, as they have a total of 21 hit points. You’d need to roll at least 28 to affect all four goblins.
 
-Creatures affected fall [unconscious](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Unconcious). This means:
+Creatures affected fall [unconscious](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Unconscious). This means:
 
 * They fall [prone](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Prone).
 * They are [incapacitated](https://www.dndbeyond.com/sources/basic-rules/appendix-a-conditions#Incapacitated), meaning they can’t take actions or reactions.
 * They can’t move or speak.
 * They are unaware of their surroundings.
 * They drop whatever they’re holding.
-* They automatically fail Srength and Dexterity saving throws.
+* They automatically fail Strength and Dexterity saving throws.
 * Attack rolls against them have advantage.
 * Any attack that hits them is a critical hit.
 
@@ -63,7 +63,7 @@ Or a single orc:
 
 ![Orcs Sleep Histogram]({{ "/assets/orcs_sleep.png"  }})
 
-Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with orcs, you have only a 5% chance that the spell will do nothing. This chance jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally uneffective against them.
+Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with orcs, you have only a 5% chance that the spell will do nothing. This chance jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally ineffective against them.
 
 ## Compared to other spells
 [Sleep](https://www.dndbeyond.com/spells/sleep) is unique in that it’s a 1st-level spell that can incapacitate multiple enemies without a saving throw, and without requiring your concentration. Compare it with [Hideous Laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter), which is a 1st-level spell that can incapacitate a single enemy and requires concentration.
