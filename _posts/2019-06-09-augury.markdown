@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Augury"
-date: 2018-06-21T18:49:25-04:00
+date: 2019-06-21T18:49:25-04:00
 ---
 
 [Augury](https://www.dndbeyond.com/spells/augury) is a 2nd level divination spell exclusively for the Cleric. You describe to the DM "a specific course of action that you plan to take within the next 30 minutes", and the DM (playing the role of an otherworldly entity) has to tell you whether that course of action is good or bad.
@@ -9,8 +9,6 @@ date: 2018-06-21T18:49:25-04:00
 Basically it's a spell that lets you ask the DM for hints without giving away any details of what lies ahead.
 
 [Augury](https://www.dndbeyond.com/spells/augury) is a ritual, which means you can cast it without expending a spell slot, at the cost of 10 minutes of your character's time.
-
-It also has material components with a gold value, so you'll need to spend 25 gp on a set of bones, sticks, cards, or other tools of divination "specially marked" for use with this spell. If you lose the material components, you'll also lose the ability to cast this spell until you can replace them.
 
 Clerics of the [Knowledge domain](https://www.dndbeyond.com/classes/cleric#KnowledgeDomain) get [Augury](https://www.dndbeyond.com/spells/augury) as a domain spell, so they always have it prepared. If you're a Knowledge cleric, you should cast this spell as a ritual every evening before taking a long rest.
 
@@ -25,6 +23,18 @@ You could use this spell to ask if an NPC is about to lead you into a trap, or i
 The DM is not omniscient about events that have not yet come to pass in the game. Player choices and random chance can influence whether a particular course of action will lead to Weal or Woe. So you might get a good omen about traveling to the kingdom of Cormyr and still die on the way.
 
 If you cast this spell more than once between long rests, there's a 25% cumulative chance that you'll get a random reply. This means that the fifth time you cast it, the reading is 100% random. Sometimes unreliable information is worse than no information at all.
+
+It also has material components with a gold value, so you'll need to spend 25 gp on a set of bones, sticks, cards, or other tools of divination "specially marked" for use with this spell. If you lose the material components, you'll also lose the ability to cast this spell until you can replace them.
+
+## Compared with other spells
+
+[Divination](https://www.dndbeyond.com/spells/divination) is [Augury](https://www.dndbeyond.com/spells/augury)'s more powerful sibling. It's a 4th level spell identical to [Augury](https://www.dndbeyond.com/spells/augury) in every respect except you can ask a general question concerning not just a course of action, but a goal or event. You also get a "short phrase, a cryptic rhyme, or an omen" instead of a simple weal/woe answer from the DM, and the spell consumes its material components. Unlike [Augury](https://www.dndbeyond.com/spells/augury), Druids get access to this spell.
+
+[Commune](https://www.dndbeyond.com/spells/commune) is a power level higher still, at 5th level. It's similar to [Divination](https://www.dndbeyond.com/spells/divination) except it lets you ask up to three yes/no questions.
+
+Another 5th level divination spell is [Contact Other Plane](https://www.dndbeyond.com/spells/contact-other-plane), which lets you ask _five_ questions, but with a chance of taking psychic damage and going insane. Warlocks get this spell in addition to Clerics.
+
+A 6th level spell, [Find the Path](http://5espellreviews.com/2018/06/21/find-the-path.html) is the pinnacle of the spells that let you request hints from the DM. In this case you can directly ask "which way to the treasure?" Check out my review of [Find the Path](http://5espellreviews.com/2018/06/21/find-the-path.html) for details.
 
 ## Conclusion
 
