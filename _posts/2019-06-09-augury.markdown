@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Augury"
+date: 2018-06-21T18:49:25-04:00
+---
+
+[Augury](https://www.dndbeyond.com/spells/augury) is a 2nd level divination spell exclusively for the Cleric. You describe to the DM "a specific course of action that you plan to take within the next 30 minutes", and the DM (playing the role of an otherworldly entity) has to tell you whether that course of action is good or bad.
+
+Basically it's a spell that lets you ask the DM for hints without giving away any details of what lies ahead.
+
+[Augury](https://www.dndbeyond.com/spells/augury) is a ritual, which means you can cast it without expending a spell slot, at the cost of 10 minutes of your character's time.
+
+It also has material components with a gold value, so you'll need to spend 25 gp on a set of bones, sticks, cards, or other tools of divination "specially marked" for use with this spell. If you lose the material components, you'll also lose the ability to cast this spell until you can replace them.
+
+Clerics of the [Knowledge domain](https://www.dndbeyond.com/classes/cleric#KnowledgeDomain) get [Augury](https://www.dndbeyond.com/spells/augury) as a domain spell, so they always have it prepared. If you're a Knowledge cleric, you should cast this spell as a ritual every evening before taking a long rest.
+
+## Weal
+
+[Augury](https://www.dndbeyond.com/spells/augury) has a long history in D&D as a way for player characters to survive deadly adventures. If you're faced with a choice between two doors where one leads to sudden death and the other leads to the treasure, casting [Augury](https://www.dndbeyond.com/spells/augury) lets you "ask the bones" (i.e. force the DM to give you a hint) whether a particular choice of door leads to "weal" or "woe".
+
+You could use this spell to ask if an NPC is about to lead you into a trap, or if "looking for the Tablets of Fate in the city of Arabel" is a good idea or a bad one.
+
+## Woe
+
+The DM is not omniscient about events that have not yet come to pass in the game. Player choices and random chance can influence whether a particular course of action will lead to Weal or Woe. So you might get a good omen about traveling to the kingdom of Cormyr and still die on the way.
+
+If you cast this spell more than once between long rests, there's a 25% cumulative chance that you'll get a random reply. This means that the fifth time you cast it, the reading is 100% random. Sometimes unreliable information is worse than no information at all.
+
+## Conclusion
+
+_Augury_ is a spell that lets you genuinely look into the future by peering behind the DM screen just a little. It's worth preparing if you're going into situations where difficult choices can lead to dangerous results.
+
+Clerics of the [Knowledge domain](https://www.dndbeyond.com/classes/cleric#KnowledgeDomain) should consider casting this spell every day before a long rest if they haven't cast it already that day.
+
