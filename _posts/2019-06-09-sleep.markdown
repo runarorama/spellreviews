@@ -45,7 +45,7 @@ To see how poorly [Sleep](https://www.dndbeyond.com/spells/sleep) scales, consid
 
 ## Statistical Analysis
 
-5d8 is normally distributed and the average roll is 22.5. This means you can expect to put about 3/4 CR worth of creatures to sleep. That's roughly 3-5 kobolds:
+5d8 has a normal probability distribution and the average roll is 22.5. This means you can expect to put about 3/4 CR worth of creatures to sleep. That's roughly 3-5 kobolds:
 
 ![Kobolds Sleep Histogram]({{ "/assets/kobolds_sleep.png"  }})
 
@@ -62,6 +62,8 @@ One or two wolves:
 Or a single orc:
 
 ![Orcs Sleep Histogram]({{ "/assets/orcs_sleep.png"  }})
+
+Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with orcs, you have only a 5% chance that the spell will do nothing. This chance jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally uneffective against them.
 
 ## Compared to other spells
 [Sleep](https://www.dndbeyond.com/spells/sleep) is unique in that it’s a 1st-level spell that can incapacitate multiple enemies without a saving throw, and without requiring your concentration. Compare it with [Hideous Laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter), which is a 1st-level spell that can incapacitate a single enemy and requires concentration.
