@@ -9,6 +9,7 @@ date: 2018-06-21T16:18:13-04:00
 
 The Arcane Trickster and Eldritch Knight get 3rd-level spells when they reach 13th level. By that time, other classes are casting 7th-level spells like [_Plane Shift_](https://www.dndbeyond.com/spells/plane-shift) and [_Teleport_](https://www.dndbeyond.com/spells/teleport), but _Phantom Steed_ is one of the 3rd-level spells that are still useful at high levels of play.
 
+
 ## What does it do?
 
 This spell allows you to summon a spirit horse with a speed of 100, which is faster than nearly any other mount in the game. It can be cast as a ritual, requires no material components, and lasts for 1 hour.
@@ -36,4 +37,5 @@ Since the Phantom Steed is a creature, those other spells can be cast on it. Wha
 ## Conclusion
 
 _Phantom Steed_ is an incredibly versatile utility spell that can drastically improve your mobility on and off the battlefield.
+
 

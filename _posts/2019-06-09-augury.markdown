@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Augury"
-date: 2019-06-21T18:49:25-04:00
+date: 2019-06-09T18:49:25-04:00
 ---
 
 [Augury](https://www.dndbeyond.com/spells/augury) is a 2nd level divination spell exclusively for the Cleric. You describe to the DM "a specific course of action that you plan to take within the next 30 minutes", and the DM (playing the role of an otherworldly entity) has to tell you whether that course of action is good or bad.
@@ -11,6 +11,7 @@ Basically it's a spell that lets you ask the DM for hints without giving away an
 [Augury](https://www.dndbeyond.com/spells/augury) is a ritual, which means you can cast it without expending a spell slot, at the cost of 10 minutes of your character's time.
 
 Clerics of the [Knowledge domain](https://www.dndbeyond.com/classes/cleric#KnowledgeDomain) get [Augury](https://www.dndbeyond.com/spells/augury) as a domain spell, so they always have it prepared. If you're a Knowledge cleric, you should cast this spell as a ritual every evening before taking a long rest.
+
 
 ## Weal
 
@@ -41,4 +42,5 @@ A 6th level spell, [Find the Path](http://5espellreviews.com/2018/06/21/find-the
 _Augury_ is a spell that lets you genuinely look into the future by peering behind the DM screen just a little. It's worth preparing if you're going into situations where difficult choices can lead to dangerous results.
 
 Clerics of the [Knowledge domain](https://www.dndbeyond.com/classes/cleric#KnowledgeDomain) should consider casting this spell every day before a long rest if they haven't cast it already that day.
+
 
