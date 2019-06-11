@@ -22,6 +22,7 @@ Taking all that into account, the spell will do an average of 16.5875 points of 
 
 ![Lightning Arrow Damage Histogram]({{ "/assets/larrowhistogram.png"  }})
 
+
 ## Lightning Arrow compared with other spells
 
 Other offensive spells available to the Ranger with 3rd level slots include [Conjure Barrage](https://www.dndbeyond.com/spells/conjure-barrage) and [Wind Wall](https://www.dndbeyond.com/spells/wind-wall). Both of those deal 3d8 damage (piercing or bludgeoning, respectively) to creatures in a much larger area, although Lightning Arrow potentially has a much longer range.
@@ -56,6 +57,7 @@ Lightning Arrow would be ridiculously good against creatures vulnerable to Light
 
 It's rare for creatures to be resistant to the magical piercing and bludgeoning damage of Wind Wall, Conjure Barrage, and Hail of Thorns.
 
+
 ## Synergy with other Ranger features
 
 Very importantly, Lightning Arrow is an Attack, unlike Conjure Barrage or Wind Wall. Since it's an Attack, it synergizes nicely with the Archery fighting style, your Extra Attack feature, the Hunter archetype's animal companion, the Gloom Stalker's Dread Ambusher and Stalker's Flurry features, the Horizon Walker's Planar Warrior and Distant Strike features, as well as the Hunter's Colossus Slayer, Giant Killer, and Horde Breaker features. Although Lightning Arrow only augments a single attack, these features allow you to make additional attacks either before or after your Lightning Arrow, or add more damage dice to the spell.
@@ -81,4 +83,5 @@ Lightning Arrow is a situational combat spell. It's good for when you want to de
 ## Conclusion
 
 Lightning Arrow is a strong offensive spell for the mid-tier ranger, similar to Hail of Thorns, but slightly better. It seems somewhat underpowered when you analyze it on its own, but it synergizes well with the class's other features. It's probably the best damage-dealing 3rd-level spell available to the ranger.
+
 

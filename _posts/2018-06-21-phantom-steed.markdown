@@ -2,6 +2,7 @@
 layout: post
 title: "Phantom Steed"
 date: 2018-06-21T16:18:13-04:00
+
 ---
 
 [_Phantom Steed_](https://www.dndbeyond.com/spells/phantom-steed) is a 3rd-level illusion spell for the [Wizard](https://www.dndbeyond.com/characters/classes/wizard), [Eldritch Knight](https://www.dndbeyond.com/characters/classes/fighter#EldritchKnight), and [Arcane Trickster](https://www.dndbeyond.com/characters/classes/rogue#ArcaneTrickster). Wizards gets 3rd-level spells when they reach 5th level.
