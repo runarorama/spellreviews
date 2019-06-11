@@ -12,6 +12,7 @@ This spell takes an action to cast and takes your concentration. It allows you t
 
 The beast gets a Wisdom saving throw, which it gets to repeat whenever it takes damage.
 
+
 ## Potential uses
 
 [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) can be used as a battlefield control spell by turning a hostile beast into an ally, or simply commanding it to run away.
@@ -50,7 +51,7 @@ The ability to forego your action to take precise control of the beast doesn't s
 
 [Conjure Animals](https://www.dndbeyond.com/spells/conjure-animals) is a 3rd level spell and gives you up to CR 2 worth of beasts that you essentially control as if they were under a [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) spell.
 
-[Conjure Woodland Beings] is a 4th level spell similar to [Conjure Animals](https://www.dndbeyond.com/spells/conjure-animals), except it summons fey creatures instead of beasts.
+[Conjure Woodland Beings](https://www.dndbeyond.com/spells/conjure-woodland-beings)  is a 4th level spell similar to [Conjure Animals](https://www.dndbeyond.com/spells/conjure-animals), except it summons fey creatures instead of beasts.
 
 [Giant Insect](https://www.dndbeyond.com/spells/giant-insect) is another 4th level spell that lets you gain low-CR beast thralls as long as there are insects or arachnids present.
 
@@ -61,5 +62,5 @@ The ability to forego your action to take precise control of the beast doesn't s
 
 [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) is a somewhat situational utility and battlefield control spell. It can be a great choice for campaigns that feature wilderness exploration, but its power level is such that it's already becoming irrelevant by the time it comes online at character level 7.
 
-Paladins, clerics, and warlocks who get this spell get it automatically without having to prepare it. It's probably not worth taking for sorcerers. Since druids always have their full spell list available to prepare, this spell can be a solid choice although there are usually better uses for your 4th level slots.
+Paladins, clerics, and warlocks who get this spell have it automatically without needing to prepare it. It's probably not worth taking for most sorcerers. Since druids always have their full spell list available to prepare, this spell can be a solid choice although there are usually better uses for your 4th level slots.
 
