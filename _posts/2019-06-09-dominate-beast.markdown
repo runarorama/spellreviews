@@ -4,11 +4,11 @@ title: "Dominate Beast"
 date: 2019-06-09T18:49:25-04:00
 ---
 
-[Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) is a 4th-level enchantment spell for [Druids](https://www.dndbeyond.com/characters/classes/druid) and [Sorcerers](https://www.dndbeyond.com/characters/classes/sorcerer), as well as Clerics of the Nature Domain, Paladins who take the Oath of Conquest, and Warlocks whose patron is either The Archfey or The Great Old One. These classes all get 4th level slots at character level 7, except Paladins who get them at level 13.
+[Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) is a 4th-level enchantment spell for [Druids](https://www.dndbeyond.com/characters/classes/druid) and [Sorcerers](https://www.dndbeyond.com/characters/classes/sorcerer), as well as [Clerics](https://www.dndbeyond.com/classes/cleric) of the [Nature Domain](https://www.dndbeyond.com/classes/cleric#NatureDomain), [Paladins who take the Oath of Conquest](https://www.dndbeyond.com/classes/paladin#OathofConquest), and [Warlocks](https://www.dndbeyond.com/classes/warlock) whose patron is either [The Archfey](https://www.dndbeyond.com/classes/warlock#TheArchfey) or [The Great Old One](https://www.dndbeyond.com/classes/warlock#TheGreatOldOne). These classes all get 4th level slots at character level 7, except Paladins who get them at level 13.
 
 ## What does it do?
 
-This spell takes an action to cast and takes your concentration. It allows you to charm a creature that has the /beast/ type, such that it does its best to obey your commands for one minute. While you concentrate on the spell, you can use your action to take precise control of the creature for a full round.
+This spell takes an action to cast and takes your concentration. It allows you to charm a creature that has the *beast* type, such that it does its best to obey your commands for one minute. While you concentrate on the spell, you can use your action to take precise control of the creature for a full round.
 
 The beast gets a Wisdom saving throw, which it gets to repeat whenever it takes damage.
 
@@ -54,10 +54,12 @@ The ability to forego your action to take precise control of the beast doesn't s
 
 [Giant Insect](https://www.dndbeyond.com/spells/giant-insect) is another 4th level spell that lets you gain low-CR beast thralls as long as there are insects or arachnids present.
 
-[Polymorph](https://www.dndbeyond.com/spells/polymorph) is another potential use for your 4th level spell that has similar battlefield control use cases. It has interactions with [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast), as it changes a creature's type to /beast/. In general if the choice is between preparing [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) or [Polymorph](https://www.dndbeyond.com/spells/polymorph), the latter is probably a better choice as it's a much more flexible spell and applicable in more situations.
+[Polymorph](https://www.dndbeyond.com/spells/polymorph) is another potential use for your 4th level spell that has similar battlefield control use cases. It has interactions with [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast), as it changes a creature's type to *beast*. In general if the choice is between preparing [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) or [Polymorph](https://www.dndbeyond.com/spells/polymorph), the latter is probably a better choice as it's a much more flexible spell and applicable in more situations.
 
 
 ## Conclusion
 
 [Dominate Beast](https://www.dndbeyond.com/spells/dominate-beast) is a somewhat situational utility and battlefield control spell. It can be a great choice for campaigns that feature wilderness exploration, but its power level is such that it's already becoming irrelevant by the time it comes online at character level 7.
+
+Paladins, clerics, and warlocks who get this spell get it automatically without having to prepare it. It's probably not worth taking for sorcerers. Since druids always have their full spell list available to prepare, this spell can be a solid choice although there are usually better uses for your 4th level slots.
 
