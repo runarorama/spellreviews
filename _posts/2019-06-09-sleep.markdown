@@ -67,22 +67,29 @@ Or a single orc:
 
 ![Orcs Sleep Histogram]({{ "/assets/orcs_sleep.png"  }})
 
-Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with orcs, you have only a 5% chance that the spell will do nothing. The probability of no effect jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally ineffective against them unless they're injured or you cast it with a higher level slot.
+Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with CR 1 orcs, you have only a 5% chance that the spell will do nothing. The probability of no effect jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally ineffective against them unless they're injured or you cast it with a higher level slot.
+
+Here is the full probability map for [Sleep](https://www.dndbeyond.com/spells/sleep):
+
+![Sleep heat map]({{ "/assets/Sleep_heatmap.png"  }})
+
+The vertical axis is the number of hit points per creature, and the horizontal axis is the number of creatures affected. The probabilities are represented by colors, where more blue is more probable and more red is less probable. The white color in between represents a 50% chance.
+
+The sweet spot is where creatures have fewer than 16 hit points, and you can see that the effectiveness drops off rapidly after that.
 
 ## Compared to other spells
-[Sleep](https://www.dndbeyond.com/spells/sleep) is unique in that it’s a 1st-level spell that can incapacitate multiple enemies without a saving throw, and without requiring your concentration. Compare it with [Hideous Laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter), which is a 1st-level spell that can incapacitate a single enemy and requires concentration.
+[Sleep](https://www.dndbeyond.com/spells/sleep) is unique in that it’s a 1st-level spell that can incapacitate multiple enemies without a saving throw, and without requiring your concentration. Compare it with [Tasha's Hideous Laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter), which is a 1st-level spell that can incapacitate a single enemy, requires concentration, and doesn't work on creatures with an Intelligence score of 4 or lower (thus it won't work on most animals, for example). Even so, [Tasha's Hideous Laughter](https://www.dndbeyond.com/spells/tashas-hideous-laughter) remains a good use of your 1st-level spell slots long after [Sleep](https://www.dndbeyond.com/spells/sleep) stops being useful.
 
 [Color Spray](https://www.dndbeyond.com/spells/color-spray) works similarly to [Sleep](https://www.dndbeyond.com/spells/sleep) and is also a 1st-level spell, but blinds creatures instead of rendering them unconscious. The duration is only 1 round, compared to 10 rounds for [Sleep](https://www.dndbeyond.com/spells/sleep).
 
 [Suggestion](https://www.dndbeyond.com/spells/suggestion) is a 2nd-level spell with a range of only 30 feet that can be used to take one enemy out of the fight, but takes your concentration.
 
-[Hypnotic Pattern](https://www.dndbeyond.com/spells/hypnotic-pattern) is a 3rd-level spell with a similar effect to [Sleep](https://www.dndbeyond.com/spells/sleep), but allows the affected creatures a Wisdom saving throw and requires your concentration.
+[Hypnotic Pattern](https://www.dndbeyond.com/spells/hypnotic-pattern) is a 3rd-level spell with a similar effect to [Sleep](https://www.dndbeyond.com/spells/sleep), but allows the affected creatures a Wisdom saving throw and requires your concentration. [Hypnotic Pattern](https://www.dndbeyond.com/spells/hypnotic-pattern) is probably the most obvious replacement for [Sleep](https://www.dndbeyond.com/spells/sleep) as you level up.
 
-[Hold Monster](https://www.dndbeyond.com/spells/hold-monster) comes online when you get 5th level slots (at character level 9 if you’re a wizard), affects one creature which gets a saving throw, and takes concentration. It can be upcast, so you can hold two monsters using a 6th level slot and up to 5 monsters with a 9th-level slot. 
+[Hold Monster](https://www.dndbeyond.com/spells/hold-monster) comes online when you get 5th level slots (at character level 9 if you’re a wizard), affects one creature which gets a saving throw, and takes concentration. It can be upcast, so you can hold two monsters using a 6th level slot and up to 5 monsters with a 9th-level slot. [Hold Person](https://www.dndbeyond.com/spells/hold-person) is a weaker, 2nd-level version of this spell which only works on humanoids.
 
-At spell level 6 (wizard level 11), you get spells like [Irresistible Dance](https://www.dndbeyond.com/spells/ottos-irresistible-dance) and [Eyebite](https://www.dndbeyond.com/spells/eyebite) that let you disable enemies. But again, these spells take your concentration.
+At spell level 6 (wizard level 11), you get spells like [Irresistible Dance](https://www.dndbeyond.com/spells/ottos-irresistible-dance) and [Eyebite](https://www.dndbeyond.com/spells/eyebite) that let you disable enemies. But again, these spells take your concentration and give the targets saving throws.
 
 ## Summary
 [Sleep](https://www.dndbeyond.com/spells/sleep) is a uniquely powerful crowd control spell for low-level characters, but quickly becomes irrelevant as you level up.
-
 
