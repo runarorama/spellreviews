@@ -67,7 +67,7 @@ Or a single orc:
 
 ![Orcs Sleep Histogram]({{ "/assets/orcs_sleep.png"  }})
 
-Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with CR 1 orcs, you have only a 5% chance that the spell will do nothing. The probability of no effect jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally ineffective against them unless they're injured or you cast it with a higher level slot.
+Note that below CR 1/2, it's exceedingly unlikely that the result of your spell is "nothing happens". Even with CR 1/2 orcs, you have only a 5% chance that the spell will do nothing. The probability of no effect jumps drastically when you go to CR 1 creatures. For example, you have less than a 50% chance of being able to put even a single bugbear to sleep. CR 2 creatures like ogres and gargoyles generally have more than 40 hit points, making this spell totally ineffective against them unless they're injured or you cast it with a higher level slot.
 
 Here is the full probability map for [Sleep](https://www.dndbeyond.com/spells/sleep):
 
